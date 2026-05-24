@@ -1,4 +1,4 @@
-# 🔗 VLESS XHTTP Converter — Podkop Edition
+# 🔗 VLESS XHTTP/gRPC/TCP Converter — Podkop Edition
 
 Веб-утилита для конвертации `vless://` ссылок в JSON-конфигурацию outbound sing-box.
 
@@ -6,7 +6,7 @@
 
 - ⚡ Мгновенная конвертация в браузере (без сервера)
 - 🔒 Поддержка **Reality** и **TLS**
-- 🚀 Транспорт **XHTTP** (splithttp) с настройкой mode / path / host
+- 🚀 Транспорт **XHTTP (splithttp)** с настройкой mode / path / host, **gRPC**, **TCP**
 - 📋 Копирование JSON одной кнопкой
 - ⌨️ **Enter** для быстрой конвертации
 - 🌙 Тёмный дизайн с подсветкой синтаксиса
@@ -14,7 +14,7 @@
 
 ## 🚀 Использование
 
-**Онлайн:** [eikeidev.github.io/vless-xtls-converter](https://eikeidev.github.io/vless-xtls-converter/)
+**Онлайн:** [lkaoof.github.io/vless-xtls-converter](https://lkaoof.github.io/vless-xtls-converter/)
 
 **Локально:** откройте `index.html` в любом браузере.
 
